@@ -1,0 +1,11 @@
+
+{
+  "development": {
+    "username": "postgres",
+    "password": "db1718",
+    "database": "dashboard_panel",
+    "host": "localhost",
+    "dialect": "postgres"
+  }
+}
+
